@@ -14,6 +14,8 @@
 ### coding
 
 * Bracket Pair Colorizer 2 <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2>
+* Japanese Word Handler <https://marketplace.visualstudio.com/items?itemName=sgryjp.japanese-word-handler>
+* cursory-glance <https://marketplace.visualstudio.com/items?itemName=tuomassalo.cursory-glance>
 
 ### UI development
 
@@ -21,3 +23,4 @@
 * npm Intellisense <https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense>
 * Prettier - Code formatter <https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode>
 * TSLint <https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin>
+* Path Autocomplete <https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete>
