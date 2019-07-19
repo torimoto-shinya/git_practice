@@ -24,3 +24,10 @@
 * Prettier - Code formatter <https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode>
 * TSLint <https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin>
 * Path Autocomplete <https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete>
+* Git Graph <https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph>
+
+## Branching models
+
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) (git-flow)
+- [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+- [GitLab flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
