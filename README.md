@@ -9,4 +9,7 @@
     
 ## Gitの使い方について
 ### 開発途中に他の人の変更を取り込みたい時
-* 
+* `merge develop`
+* `rebase`
+* `reset --head` と `cherry-pick`
+
